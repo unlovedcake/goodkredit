@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "187647200980",
+    "project_id": "good-kredit-4877d",
+    "storage_bucket": "good-kredit-4877d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187647200980:android:26dd58ff0f37f15e683541",
+        "android_client_info": {
+          "package_name": "com.goodkredit.goodkredit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187647200980-tv1178tun07irnmsaluq4jk3fj6jhish.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goodkredit.goodkredit",
+            "certificate_hash": "bddcb183d98e15cd23159bb05d0bafd81253592f"
+          }
+        },
+        {
+          "client_id": "187647200980-jge1ebdb4nigvhj4v8nbqkgcghfhdq2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMiF6UT6fzTuYmEY3CjOjk_5Gyo0XsgF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187647200980-jge1ebdb4nigvhj4v8nbqkgcghfhdq2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
